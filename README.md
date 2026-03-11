@@ -27,6 +27,10 @@ I enjoy working on projects that combine **algorithms, architecture, and real-wo
 
 I also completed an academic exchange semester at **Murdoch University (Australia)**.
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman animation" />
+</div>
+
 ---
 
 # Tech Stack
